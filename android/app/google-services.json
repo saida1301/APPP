@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "521704346853",
+    "project_id": "ismobile-99990",
+    "storage_bucket": "ismobile-99990.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521704346853:android:9be883d60b3744c820700c",
+        "android_client_info": {
+          "package_name": "com.seide.isapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521704346853-s2u0lukb360uhfnnphqcq43o0fk7drl7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALn1gYYfXjKfFhPbrIoF0wq-34hVHx_wg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "521704346853-s2u0lukb360uhfnnphqcq43o0fk7drl7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
